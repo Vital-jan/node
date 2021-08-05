@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node start",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('node.start')",
+    "start": "node index.js"
+  },
+  "author": "V.K.",
+  "license": "ISC"
+}
